@@ -1,0 +1,7 @@
+D:\LP_NU\Studying\Master's_degree\Term 2\TIIR\lab2\TempConvert\TempConvert\obj\Debug\TempConvert.csproj.AssemblyReference.cache
+D:\LP_NU\Studying\Master's_degree\Term 2\TIIR\lab2\TempConvert\TempConvert\obj\Debug\TempConvert.csproj.CoreCompileInputs.cache
+D:\LP_NU\Studying\Master's_degree\Term 2\TIIR\lab2\TempConvert\TempConvert\bin\Debug\TempConvert.exe.config
+D:\LP_NU\Studying\Master's_degree\Term 2\TIIR\lab2\TempConvert\TempConvert\bin\Debug\TempConvert.exe
+D:\LP_NU\Studying\Master's_degree\Term 2\TIIR\lab2\TempConvert\TempConvert\bin\Debug\TempConvert.pdb
+D:\LP_NU\Studying\Master's_degree\Term 2\TIIR\lab2\TempConvert\TempConvert\obj\Debug\TempConvert.exe
+D:\LP_NU\Studying\Master's_degree\Term 2\TIIR\lab2\TempConvert\TempConvert\obj\Debug\TempConvert.pdb

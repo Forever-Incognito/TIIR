@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LP_NU\\Studying\\Master\u0027s_degree\\Term 2\\TIIR\\lab2\\TempConvert\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F9103B8-C9F8-43C0-BA2E-B9F359F0F60D}|TempConvert\\TempConvert.csproj|d:\\lp_nu\\studying\\master\u0027s_degree\\term 2\\tiir\\lab2\\tempconvert\\tempconvert\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F9103B8-C9F8-43C0-BA2E-B9F359F0F60D}|TempConvert\\TempConvert.csproj|solutionrelative:tempconvert\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\LP_NU\\Studying\\Master\u0027s_degree\\Term 2\\TIIR\\lab2\\TempConvert\\TempConvert\\Program.cs",
+              "RelativeDocumentMoniker": "TempConvert\\Program.cs",
+              "ToolTip": "D:\\LP_NU\\Studying\\Master\u0027s_degree\\Term 2\\TIIR\\lab2\\TempConvert\\TempConvert\\Program.cs",
+              "RelativeToolTip": "TempConvert\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T13:41:48.444Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
