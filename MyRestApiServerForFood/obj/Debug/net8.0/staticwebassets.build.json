@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "5/ohsjsuP939GWeEi0sj+Zgi0MVXIFkCBhy+SFoc/Ts=",
+  "Source": "MyRestApiServerForFood",
+  "BasePath": "_content/MyRestApiServerForFood",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
