@@ -13,7 +13,7 @@ namespace SpoonacularClientApp
             // Instance of the Spoonacular client
             var spoonacularClient = new SpoonacularClient(apiKey);
 
-            // --- Search recipes ---
+            // Search recipes
             Console.WriteLine("Enter an ingredient to search for recipes:");
             string ingredient = Console.ReadLine();
 
