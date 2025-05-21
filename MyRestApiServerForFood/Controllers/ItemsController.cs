@@ -3,9 +3,9 @@ using MyRestApiServerForFood;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace MyRestApiServerForFood.Controllers // Updated namespace
+namespace MyRestApiServerForFood.Controllers
 {
-    [Route("api/[controller]")] // Defines the route for this controller (e.g., /api/items)
+    [Route("api/[controller]")]
     [ApiController] // Attribute indicating this is an API controller
     public class ItemsController : ControllerBase
     {
