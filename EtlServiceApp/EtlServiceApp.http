@@ -1,0 +1,6 @@
+@EtlServiceApp_HostAddress = http://localhost:5283
+
+GET {{EtlServiceApp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

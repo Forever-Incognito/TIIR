@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "CsrdQYBbSpfVhWKzjBczNqsmBgI1OB38/jZae3pmBBw=",
+  "Source": "EtlServiceApp",
+  "BasePath": "_content/EtlServiceApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
