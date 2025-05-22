@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "EwKtTNixMd4m59A1QHkohcP9f7GaUxu+7bLihLPu5t4=",
+  "Source": "DataFederationService",
+  "BasePath": "_content/DataFederationService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

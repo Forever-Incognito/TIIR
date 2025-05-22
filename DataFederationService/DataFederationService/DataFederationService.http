@@ -1,0 +1,6 @@
+@DataFederationService_HostAddress = http://localhost:5081
+
+GET {{DataFederationService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
