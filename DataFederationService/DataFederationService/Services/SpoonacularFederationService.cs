@@ -16,7 +16,7 @@ namespace DataFederationService.Services
         public SpoonacularFederationService(HttpClient httpClient, IConfiguration configuration)
         {
             _httpClient = httpClient;
-            // Retrieve the API key from configuration (appsettings.json).
+            // Retrieve the API key from configuration (appsettings.json)
             _apiKey = configuration["SpoonacularApi:ApiKey"];
             if (string.IsNullOrEmpty(_apiKey))
             {

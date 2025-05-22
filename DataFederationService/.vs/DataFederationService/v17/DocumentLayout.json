@@ -42,8 +42,7 @@
               "RelativeToolTip": "DataFederationService\\Program.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAiwCMAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T04:18:39.555Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-22T04:18:39.555Z"
             },
             {
               "$type": "Document",
@@ -55,8 +54,7 @@
               "RelativeToolTip": "DataFederationService\\Controllers\\FederationController.cs",
               "ViewState": "AgIAACcAAAAAAAAAAAAiwDoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T04:18:21.42Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-22T04:18:21.42Z"
             },
             {
               "$type": "Document",
@@ -66,7 +64,7 @@
               "RelativeDocumentMoniker": "DataFederationService\\Services\\SpoonacularFederationService.cs",
               "ToolTip": "D:\\LP_NU\\Studying\\Master\u0027s_degree\\Term 2\\TIIR\\lab 6\\DataFederationService\\DataFederationService\\Services\\SpoonacularFederationService.cs",
               "RelativeToolTip": "DataFederationService\\Services\\SpoonacularFederationService.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAiwDQAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBIAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-22T04:17:12.986Z",
               "EditorCaption": ""
@@ -81,8 +79,7 @@
               "RelativeToolTip": "DataFederationService\\Models\\SpoonacularRecipeSearchResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T04:16:01.476Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-22T04:16:01.476Z"
             },
             {
               "$type": "Document",
@@ -94,8 +91,7 @@
               "RelativeToolTip": "DataFederationService\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-22T04:13:55.455Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-22T04:13:55.455Z"
             }
           ]
         }
